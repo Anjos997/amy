@@ -99,11 +99,11 @@ h2 {
     font-family: 'Lemon', serif;
     font-size: 2.5em;
     font-style: normal;
-    color: var(--red-claro);
+    color: var(--vermelho-claro);
 }
 
 #galeria {
-    background-color: #FAF4F4;
+    background-color: #fAf4f4;
 
 }
 
@@ -132,13 +132,13 @@ h2 {
 }
 
 .formulario button {
-    background-color: #CB6D43;
+    background-color: #cb6d43;
     border: none;
     font-weight: bold;
 }
 
 .form-control {
-    background-color: #F1EDEF;
+    background-color: #f1edef;
 }
 .menu-acessibilidade{
     position: fixed;
