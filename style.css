@@ -60,7 +60,7 @@ section {
 
 
 .botao-inicio {
-    background-color: var(--red-claro);
+    background-color: var(--vermelho-claro);
     border-radius: 30px;
     border: none;
     width: 14em;
@@ -103,7 +103,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #fAf4f4;
+    background-color: #f4f4f4;
 
 }
 
