@@ -3,7 +3,7 @@
 
 :root {
     --vermelho: #e50914;
-    --alto-contraste-fundo: #f5f5f5;
+    --alto-contraste-fundo: #000000;
     --alto-contraste-texto: #000000;
     --alto-contraste-link: #e50914;
 }
